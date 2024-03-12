@@ -11,3 +11,4 @@ The purpose of this analysis was to predicte the loan risk based on the Loan Sta
 ## A summary: 
 The logistic regression model fit with oversampled data has an accuracy of 99% for both the precision and the recall, so it is very highly accurate.
 
+I relied heavily on help from my tutor Justin Moore as well as class notes and solved class activities to complete this challenge.
